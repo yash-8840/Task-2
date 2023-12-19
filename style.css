@@ -1,0 +1,15 @@
+.contactus {
+  border: none;
+  outline: none;
+  border-radius: 32px;
+  font-size: 1rem !important;
+  font-weight: 400;
+  line-height: 45px;
+  margin-left: 5px;
+  padding: 2px 30px;
+  transition: all 1s;
+}
+.contactus:hover {
+  background-color: rgb(50, 128, 245);
+  color: white;
+}
