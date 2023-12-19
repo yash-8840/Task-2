@@ -7,5 +7,12 @@ Using the structure of HTML these two pages are designed. CSS and javascript are
 
 ![2](https://user-images.githubusercontent.com/78338126/182253405-6a1f3b5e-6a5b-477d-8fb3-0d154fde9eca.jpg)
 
+HOME SECTION AND NAVIGATION BAR<br>
+
+The navigation bar contains the connection to home, contact, about us, menu and sign up sign panels. A logo along wiht hte cart design is also added in it.
+The home page contains the basic layout of website landing as shown below:
+CODE FILE NAME: INDEX1.HTML, STYLE1.CSS, SCRIPT.JS
+
+
 
 
